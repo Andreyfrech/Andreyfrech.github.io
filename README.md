@@ -9,3 +9,4 @@
 Рисунок диаграммы Plan-Do-Check: 
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Декомпозиция%20А0.png?raw=true)
 Пример диаграммы DFD с 3 программными модулями и 2 таблицами:
+![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Декомпозиция%20А2.png?raw=true)
