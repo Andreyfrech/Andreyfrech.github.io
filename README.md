@@ -4,5 +4,6 @@
 ![h](http://www.plantuml.com/plantuml/png/fPAnIWD148Rhp5CCLscHDn29yI6ibxirMNAvbTaD5aRGizG7i134oZO40tecUORPDtB2Ud2OrSPgXt_-_vjXs87pYlniMeARcEf2aPgYohqbl8BUKEMJ4TbPLPpQKgIpiV4QUYT4zZ8gmr8iOhHKQEfArntUpEbSEVrlOgdFFNgBP4PZZuKXdNjZAuZxyYkl-9Etl9ItGUKmuvTGXnkHtaEzQuO7v6TUVOlBh4q-yYRSxjHmnsinRgI-ZuGdCGeqrF8sRI31JO_xQqAC91ePj0UJPRUn6w4o9wQw-WStl41-atBDYmmIo_NxUB3FEeIKAERakl3ZlaTpCUxFWbHMcFFZNyuC0rqLyl--0000)
 
 ## Лабораторная работа №2<br>
+Рисунок контекста:
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Операция%20Построить%20дом%20_Ramus%20-%20проект1.rsf%20(незарегистрированная%20копия)_files/model.png?raw=true)
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Декомпозиция%20А0.png?raw=true)
