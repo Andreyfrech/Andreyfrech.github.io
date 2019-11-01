@@ -8,3 +8,4 @@
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Операция%20Построить%20дом%20_Ramus%20-%20проект1.rsf%20(незарегистрированная%20копия)_files/model.png?raw=true)
 Рисунок диаграммы Plan-Do-Check: 
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Декомпозиция%20А0.png?raw=true)
+Пример диаграммы DFD с 3 программными модулями и 2 таблицами:
