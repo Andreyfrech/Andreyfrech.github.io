@@ -5,4 +5,4 @@
 
 
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Операция%20Построить%20дом%20_Ramus%20-%20проект1.rsf%20(незарегистрированная%20копия)_files/model.png?raw=true)
-![h](http://127.0.0.1:57630/idef0/model.png?id=4&w=1024&h=768)
+
