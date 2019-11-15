@@ -9,11 +9,11 @@
 Рисунок диаграммы Plan-Do-Check: 
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(1).png?raw=true)
 Пример диаграммы DFD с 3 программными модулями и 2 таблицами:
-![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(2).png?raw=true)
+![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(3).png?raw=true)
 
 
 ## Лабораторная работа №3<br>
 
 Декомпозиция в DFD блока "Постройка дома" 
-![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(2).png?raw=true)
+![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(3).png?raw=true)
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/uml.png?raw=true)
