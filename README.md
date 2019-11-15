@@ -15,5 +15,5 @@
 ## Лабораторная работа №3<br>
 
 Декомпозиция в DFD блока "Постройка дома" 
-![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/Декомпозиция%20А2.png?raw=true)
+![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/model%20(2).png?raw=true)
 ![h](https://github.com/Andreyfrech/Andreyfrech.github.io/blob/master/uml.png?raw=true)
