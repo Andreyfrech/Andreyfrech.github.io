@@ -1,0 +1,42 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модули"
+class Function as "Функции"
+class Handler as "Экранная форма"
+class M1 as "Форма\n поступления заявки"
+class F1 as "Функция\n поиска свободного\n номера"
+class F2 as "Функция\n закрепления номера\n за посетителем"
+class M2 as "Форма\n внесения данных\n пользователя"
+class M3 as "Форма\n сохранения данных\n в системе"
+class M4 as "Форма\n проверки корректности\n ввода данных"
+class F3 as "Функция\n обработка данных"
+class F4 as "Функция\n определения количества\n дней проживания"
+class F5 as "Функция\n определения стоимости\n предоставленных услуг"
+class F6 as "Функция\n подчета стоимости\n проживания"
+
+
+Modules <|-- Function
+Modules <|-- Handler
+
+Function <|-- F1
+Function <|-- F2
+Function <|-- F3
+Function <|-- F4
+Function <|-- F5
+Function <|-- F6
+
+Handler <|-- M1
+Handler <|-- M2
+Handler <|-- M3
+Handler <|-- M4
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
